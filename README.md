@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GlobalSymbioteLedger
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# GlobalSymbioteLedger
+>>>>>>> 5933e0481e85306ee5df56cb595e1d2f8de5f65f
